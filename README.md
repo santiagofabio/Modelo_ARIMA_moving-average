@@ -2,7 +2,7 @@
 
  **ARIMA:** Modelos autorregressivos integrados e de médias móveis 
 
- **Objetivo:** Implementação do modelo autorregressivo  de series temporais diposnível na biblioteca __statsmodels.tsa.arima.model__,  a fim de se determinar precipitação chuvosa.
+ **Objetivo:** Implementação do **modelo moving average**  de series temporais diposnível na biblioteca __statsmodels.tsa.arima.model__,  a fim de se determinar precipitação chuvosa.
 
   ## Modelos Uitlizados
  **Média móvel (MA):** Indica que o erro de regressão é uma combinação linear dos termos de erro dos valores passados.
