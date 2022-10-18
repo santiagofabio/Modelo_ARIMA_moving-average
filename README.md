@@ -1,4 +1,4 @@
-#Modelo da séries temporais - ARIMA
+#Modelo da séries temporais **modelo moving average** - ARIMA
 
  **ARIMA:** Modelos autorregressivos integrados e de médias móveis 
 
